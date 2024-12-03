@@ -3,7 +3,7 @@ my-first-flag:
   variations:
     Variation_1:
       value: false # set to be true
-      color: pu4ple
+      color: purple
     Variation_2:
       value: false # set to be true
       color: purple
